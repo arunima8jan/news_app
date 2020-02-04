@@ -19,7 +19,7 @@ import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
-    final String API_KEY="your api key";
+    final String API_KEY="9efab09775e34a038f57233cc829ffb4";
     Adapter adapter;
     List<Articles> articles=new ArrayList<>();
 
